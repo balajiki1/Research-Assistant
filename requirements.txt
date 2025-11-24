@@ -1,0 +1,7 @@
+
+crewai>=0.76.9
+crewai-tools>=0.13.0
+python-dotenv>=1.0.1
+streamlit>=1.36.0
+# Gemini provider (installed via crewai extras)
+google-generativeai>=0.7.2
